@@ -1,6 +1,8 @@
 # BMW-E-Series-Remote-Start
 ( STILL IN DEVELOPMENT STAY TUNED ) ( INFO OR TUTORIAL MIGHT NOT BE COMPLETE )
 
+Im open for sugestions for features and help if anyone wants :)
+
 Exact tutorial will be made when the code is done ( still making it at the moment )
 
 COMPATIBLE ONLY WITH CAS2 AND CAS3 SYSTEMS ( ANYTHING OLDER AND NEWER WONT WORK )
