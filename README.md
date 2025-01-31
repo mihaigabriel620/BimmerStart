@@ -7,9 +7,9 @@ Exact tutorial will be made when the code is done ( still making it at the momen
 
 COMPATIBLE ONLY WITH CAS2 AND CAS3 SYSTEMS ( ANYTHING OLDER AND NEWER WONT WORK )
 
-Remotely start all E series cars with manual transmission with the help of an app or Bluetooth beacon or fingerprint.
+Remotely start all E series cars with manual transmission with the help of an app or Bluetooth or fingerprint.
 
-Based on arduino nano ble 33 rev2
+Based on esp32c3
 
 Fully designed in case of failure or arduino looses power it reverts to the original system
 
