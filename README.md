@@ -7,6 +7,8 @@ Exact tutorial will be made when the code is done ( still making it at the momen
 
 COMPATIBLE ONLY WITH CAS2 AND CAS3 SYSTEMS ( ANYTHING OLDER AND NEWER WONT WORK ) that use the keyslot system with the start/stop button
 
+Once the project is done i will add support for automatic cars and cars that use normal turn key system ( but i need help from people that have that system )
+
 Remotely start all E series cars with manual transmission with the help of an app or Bluetooth or fingerprint.
 
 Based on esp32c3
