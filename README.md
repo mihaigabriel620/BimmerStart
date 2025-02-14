@@ -22,13 +22,21 @@ Info that the esp needs from car ( for safety ) and ( Convenience )
 Hall sensor for ( Shifter neutral detection ) ( this will normaly attach on the shaft of the transmission and detect the position with a magnet )
 
 Clutch detection  ( for the cars that have a clutch sensor to start the arduino will simulate the clutch being pressed ) ( and monitor the sensor for stall detection )
+
 Driver door detection ( for future use ) ( still thinking if it can be useful )
+
 Rpm Detection ( to avoid the car being turned off the arduino checks the rpm ) ( if rpm is not in idle 900-1000 it wont allow to turn off the engine ) only original system can do that
+
 Parking brake detection( if the parking brake is not on the arduino wont allow remote start )
+
 Battery voltage detection ( if the battery is low the arduino wont allow remote start ) ( still thinking if i take from the canbus the info or with resistor devider )
+
 Canbus detection ( to reterive the door status and rpm from the K-CAN of the car )
+
 Throttle detection ( same like rpm detection )
+
 Remaining range ( for app use )
+
 Keyfob button press detection ( to remote start with original key as option )
 
 Parts required
