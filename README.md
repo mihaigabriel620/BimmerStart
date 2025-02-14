@@ -11,7 +11,7 @@ Remotely start all E series cars with manual transmission with the help of an ap
 
 Based on esp32c3
 
-Fully designed in case of failure or arduino looses power it reverts to the original system
+Fully designed in case of failure or the esp looses power it reverts to the original system
 
 For the remote start features to work we need some info and some parts from the car for status and safety
 
