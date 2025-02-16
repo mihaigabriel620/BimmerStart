@@ -1,5 +1,6 @@
-# BMW-E-Series-Remote-Start
-( STILL IN DEVELOPMENT STAY TUNED ) ( INFO OR TUTORIAL MIGHT NOT BE COMPLETE )
+# BimmerStart
+Remote start system for bmw e series
+( STILL IN DEVELOPMENT STAY TUNED )
 
 Im open for sugestions for features and help if anyone wants :)
 
