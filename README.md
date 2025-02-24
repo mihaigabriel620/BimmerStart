@@ -42,7 +42,7 @@ Keyfob button press detection ( to remote start with original key as option )
 
 Parts required
 
-esp32c3
+esp32
 Canbus adapter mcp2515 
 Hall sensors 
 Fingerprint module ( optional authentification )
