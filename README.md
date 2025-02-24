@@ -2,6 +2,10 @@
 Remote start system for bmw e series
 ( STILL IN DEVELOPMENT STAY TUNED )
 
+Here is the current progress
+
+https://youtube.com/shorts/Hav8PQYhq44?feature=share
+
 Im open for sugestions for features and help if anyone wants :)
 
 Exact tutorial will be made when the code is done ( still making it at the moment )
