@@ -20,20 +20,32 @@ Once the project is done i will add support for automatic cars and cars that use
 
 Features:
 Remote start from original key
+
 Remote start from app
+
 See remaining range in app
+
 Control windows,doors,alarm,blower from app
+
 Stall detection ( can restart the engine automatically when clutch is pressed ) ( need original cluster to be installed for that )
+
 Theft protection if started from app and phone is not close to the car and someone jumps in to drive it it will turn off the engine and sound the alarm )
+
 parking+shifter+battery interlock ( if one of those is not correct the remote start is not allowed )
+
 Fully designed in case of failure.
 
-The app can display various errors and for some even say them out loud 
+The app can display various errors:
 Shifer not in neural
+
 Parking brake not on
+
 Battery low
+
 Phone bluetooth off
+
 etc
+
 there will be several versions available depending on customer demand at different prices
 
 
